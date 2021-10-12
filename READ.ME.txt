@@ -1,6 +1,6 @@
 Feito por XLP1
 
-O script tem dependencia do mythic_progbar
+O script tem dependencia do mythic_progbar e mythic_notify
 
 Preview do script https://streamable.com/x4igu5
 
